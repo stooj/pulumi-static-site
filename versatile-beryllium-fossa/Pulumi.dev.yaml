@@ -1,0 +1,5 @@
+config:
+  pulumi:template: static-website-gcp-go
+  versatile-beryllium-fossa:errorDocument: error.html
+  versatile-beryllium-fossa:indexDocument: index.html
+  versatile-beryllium-fossa:path: ./www
