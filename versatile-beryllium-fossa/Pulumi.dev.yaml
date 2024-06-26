@@ -1,7 +1,6 @@
 ---
 environment:
   - pulumi-support
-  - pulumi-support-oidc-gcp
 config:
   pulumi:template: static-website-gcp-go
   versatile-beryllium-fossa:errorDocument: error.html
